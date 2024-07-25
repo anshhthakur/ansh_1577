@@ -1,5 +1,1 @@
-# print("HEllo World")
-a = 5;
-b = 6
-c = a + b
-print("Sum is = ",c)
+print("HEllo World")
